@@ -3,7 +3,7 @@ import os
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="sk-or-vv-4ef820eb6e730f963d7cb20b32b59c15d0834e43825ff2ef37001fa809087d25",
+    api_key="s5fd25",
     base_url="https://api.vsegpt.ru/v1",
 )
 
